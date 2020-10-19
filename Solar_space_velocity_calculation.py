@@ -305,7 +305,7 @@ ax1.legend(loc = 'upper right')
 fig1.savefig('R_result.png', dpi = 300)
 '''
 
-# Calculate Solar Peculiar Velocity
+# Calculate Solar Space Velocity
 Vc = 220			#km/s
 Rd = 2.5 			#kpc
 R_sigma = 13.70			#kpc

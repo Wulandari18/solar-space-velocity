@@ -4,13 +4,13 @@ Here are codes to calculate Solar space velocity from nearby stars. The results 
 
 The codes are written in Python programming language as follows:
 1. identify_MS_stars.py
-This file contains code to identify the Main-Sequence and Non-Main-Sequence of selected stars.
+   This file contains code to identify the Main-Sequence and Non-Main-Sequence of selected stars.
 2. Solar_space_velocity.py
-This file contains code to:
-- select FGK Main-Sequence stars,
-- calculate the average velocity of the stars with respect to the Sun,
-- calculate the asymmetric drift,
-- calculate the Solar space velocity with respect to the LSR.
+   This file contains code to:
+   - select FGK Main-Sequence stars,
+   - calculate the average velocity of the stars with respect to the Sun,
+   - calculate the asymmetric drift,
+   - calculate the Solar space velocity with respect to the LSR.
 
 If any discussion or questions about these codes, please contact us at darmarendy@gmail.com or wulanddarii18@gmail.com.
 
